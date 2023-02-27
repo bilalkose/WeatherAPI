@@ -18,7 +18,4 @@ public class WeatherApiApplication {
     public RestTemplate restTemplate() {
         return new RestTemplate();
     }
-
-    //TODO: Validation eklenecek
-    //TODO: Dto eklenecek
 }
